@@ -1,0 +1,25 @@
+scenario,scenario_tag,protocol,loss_pct,throughput_mbps,latency_ms,jitter_ms,delivery_ratio_pct,throughput_std,latency_std
+Scenario A - Campus LAN (Low Congestion),a,TCP,0.0,98.425,19.116,1.528,99.708,1.529,1.046
+Scenario A - Campus LAN (Low Congestion),a,TCP,1.0,95.309,21.733,1.546,99.644,2.003,1.16
+Scenario A - Campus LAN (Low Congestion),a,TCP,2.0,92.294,24.252,1.715,99.581,1.563,1.247
+Scenario A - Campus LAN (Low Congestion),a,TCP,3.0,89.518,26.443,2.009,99.54,2.133,1.139
+Scenario A - Campus LAN (Low Congestion),a,TCP,4.0,86.727,29.378,2.025,99.519,1.883,1.018
+Scenario A - Campus LAN (Low Congestion),a,TCP,5.0,83.638,32.178,2.34,99.469,1.687,1.0
+Scenario A - Campus LAN (Low Congestion),a,UDP,0.0,110.299,12.458,0.799,99.157,1.675,0.815
+Scenario A - Campus LAN (Low Congestion),a,UDP,1.0,108.941,13.318,1.151,98.862,1.622,0.747
+Scenario A - Campus LAN (Low Congestion),a,UDP,2.0,107.607,13.94,1.384,98.422,1.631,0.827
+Scenario A - Campus LAN (Low Congestion),a,UDP,3.0,106.844,14.901,1.524,98.044,1.762,0.697
+Scenario A - Campus LAN (Low Congestion),a,UDP,4.0,105.401,15.506,1.905,97.663,1.322,0.827
+Scenario A - Campus LAN (Low Congestion),a,UDP,5.0,104.049,16.208,2.126,97.364,1.435,0.698
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,0.0,49.604,45.188,1.476,99.677,2.233,1.318
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,1.0,47.751,47.713,1.568,99.666,1.618,1.168
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,2.0,46.342,50.148,1.677,99.589,1.251,1.03
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,3.0,44.696,52.712,1.905,99.564,1.83,1.185
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,4.0,43.172,55.486,2.164,99.523,1.582,0.998
+Scenario B - WAN/Cellular (Moderate Congestion),b,TCP,5.0,42.101,58.105,2.356,99.475,1.948,1.187
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,0.0,68.886,38.413,0.934,99.159,1.548,0.755
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,1.0,68.149,39.204,1.154,98.876,1.784,0.655
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,2.0,67.342,39.961,1.265,98.405,1.603,0.827
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,3.0,66.343,40.628,1.521,98.126,1.548,0.607
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,4.0,65.761,41.458,1.848,97.702,1.498,0.703
+Scenario B - WAN/Cellular (Moderate Congestion),b,UDP,5.0,64.892,42.25,2.121,97.323,1.41,0.733
